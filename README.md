@@ -18,4 +18,4 @@ Use Mono to execute Project Manager under OS X.
 
 Read my article about Project Manager: http://yazevsoft.blogspot.ru/2015/12/torque-2-d-yurembo-sandbox-torque-2-d.html
 
-Read my second article about Project Manager for OS X:
+Read my second article about Project Manager for OS X: http://yazevsoft.blogspot.ru/2016/04/project-manager-os-x-torque-2d-windows.html
