@@ -1,0 +1,8 @@
+/Users/yurembo/Documents/ProjectManager-master/ProjectManager/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/yurembo/Documents/ProjectManager-master/ProjectManager/obj/Release/ProjectManager.ManForm.resources
+/Users/yurembo/Documents/ProjectManager-master/ProjectManager/obj/Release/ProjectManager.Properties.Resources.resources
+/Users/yurembo/Documents/ProjectManager-master/ProjectManager/bin/Release/ProjectManager.exe.config
+/Users/yurembo/Documents/ProjectManager-master/ProjectManager/bin/Release/ProjectManager.exe.mdb
+/Users/yurembo/Documents/ProjectManager-master/ProjectManager/bin/Release/ProjectManager.exe
+/Users/yurembo/Documents/ProjectManager-master/ProjectManager/obj/Release/ProjectManager.exe
+/Users/yurembo/Documents/ProjectManager-master/ProjectManager/obj/Release/ProjectManager.exe.mdb
