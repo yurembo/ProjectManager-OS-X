@@ -14,6 +14,8 @@ You can use Project Manager to begin developing your own games with Torque 2D.
 
 I developed a Project Manager using C#.
 
+Use Mono to execute ProjectManager under OS X.
+
 Read my article about Project Manager: http://yazevsoft.blogspot.ru/2015/12/torque-2-d-yurembo-sandbox-torque-2-d.html
 
 Read my second article about Project Manager for OS X:
